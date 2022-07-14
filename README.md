@@ -23,7 +23,7 @@ I am from Denmark but working remotely at <a href="https://strapi.io">Strapi</a>
 
 - :zap: In my free time, I travel (Remote work makes it easy!)
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mikkel-Scheike-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikkelscheike/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikkelscheike/)
   
 ### :hammer_and_wrench: Languages and Tools:
 <div>
