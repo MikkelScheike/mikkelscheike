@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges" align=center>
-  <a href="https://www.linkedin.com/in/mikkelscheike/" target="_blank">
+  <a href="https://www.linkedin.com/in/mikkelscheike/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
@@ -16,11 +16,11 @@
   </a>
 </div>
 
-I am from Denmark but working remotely at <a href="https://strapi.io" target="_blank">Strapi</a>
+I am from Denmark but working remotely at <a href="https://strapi.io">Strapi</a>
 - :telescope: I’m working as a Engineering Manager and contributing to deliver a fully hosted solution (Early Alpha)
 
 - :seedling: Exploring new ways for content creator to use our tool and better our tools for our global developer landscape
 
 - :zap: In my free time, I travel (Remote work makes it easy!)
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikkelscheike/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikkelscheike/){:target="_blank"}
