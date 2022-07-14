@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=MikkelScheike&style=flat-square&color=blue" alt="Github"/>
   </a>
 </div>
-
+I am a Full Engineering Manager based out of Denmark with at <a href="https://strapi.io" title="Strapi">
 ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
