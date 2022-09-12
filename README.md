@@ -25,4 +25,4 @@ I am from Denmark but working remotely at <a href="https://strapi.io" target="_b
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikkelscheike/)
 
-[spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mikkelscheike&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mikkelscheike&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
