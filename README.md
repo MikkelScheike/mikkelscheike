@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=MikkelScheike&style=flat-square&color=blue" alt="Github"/>
   </a>
 </div>
-
+<br>
 I am from Denmark but working remotely at <a href="https://strapi.io" target="_blank">Strapi</a> an on <a href="https://digitalhabitat.io" target="_blank">Digital Habitat</a> 
 - :telescope: I’m working as a Engineering Manager and contributing to deliver a fully hosted solution (Early Alpha)
 
