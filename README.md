@@ -17,6 +17,7 @@
 </div>
 <br>
 I am from Denmark but working remotely at <a href="https://strapi.io" target="_blank">Strapi</a> an on <a href="https://digitalhabitat.io" target="_blank">Digital Habitat</a> 
+
 - :telescope: I’m working as a Engineering Manager and contributing to deliver a fully hosted solution (Early Alpha)
 
 - :seedling: Exploring new ways for content creator to use our tool and better our tools for our global developer landscape
