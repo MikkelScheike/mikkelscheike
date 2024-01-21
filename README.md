@@ -5,12 +5,6 @@
   Hello, I am Mikkel Scheike
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div id="badges" align=center>
-  <a href="https://www.linkedin.com/in/mikkelscheike/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     <br>
     <img src="https://komarev.com/ghpvc/?username=MikkelScheike&style=flat-square&color=blue" alt="Github"/>
   </a>
@@ -24,5 +18,5 @@ I am from Denmark but working remotely at <a href="https://strapi.io" target="_b
 
 - :zap: In my free time, I travel (Remote work makes it easy!)
 
-- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/mikkelscheike/">
+- :mailbox: How to reach me: <br><a href="https://www.linkedin.com/in/mikkelscheike/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
