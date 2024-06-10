@@ -7,13 +7,13 @@
 </h1>
 </div>
 <br>
-I am from Denmark but working remotely at <a href="https://salary.dk" target="_blank">Salary</a> and on <a href="https://digitalhabitat.io" target="_blank">Digital Habitat</a> 
+I work at <a href="https://salary.dk" target="_blank">Salary</a> and on <a href="https://digitalhabitat.io" target="_blank">Digital Habitat</a> 
 
-- :telescope: I’m working as a Engineering Manager and contributing to deliver a fully hosted solution (Early Alpha)
+- :telescope: I’m working as Engineering and Product director.
 
 - :seedling: Exploring new ways for content creator to use our tool and better our tools for our global developer landscape
 
-- :zap: In my free time, I travel (Remote work makes it easy!)
+- :zap: In my free time I travel
 
 - :mailbox: How to reach me: <br><a href="https://www.linkedin.com/in/mikkelscheike/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
