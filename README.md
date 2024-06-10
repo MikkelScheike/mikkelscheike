@@ -7,7 +7,7 @@
 </h1>
 </div>
 <br>
-I am from Denmark but working remotely at <a href="https://strapi.io" target="_blank">Strapi</a> and on <a href="https://digitalhabitat.io" target="_blank">Digital Habitat</a> 
+I am from Denmark but working remotely at <a href="https://salary.dk" target="_blank">Salary</a> and on <a href="https://digitalhabitat.io" target="_blank">Digital Habitat</a> 
 
 - :telescope: I’m working as a Engineering Manager and contributing to deliver a fully hosted solution (Early Alpha)
 
