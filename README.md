@@ -9,9 +9,9 @@
 <br>
 I work at <a href="https://salary.dk" target="_blank">Salary</a> and on <a href="https://digitalhabitat.io" target="_blank">Digital Habitat</a> 
 
-- :telescope: I’m working as Engineering and Product director.
+- :telescope: I’m working as Engineering and Product director
 
-- :seedling: Exploring new ways for content creator to use our tool and better our tools for our global developer landscape
+- :seedling: On the side I build tools that impacts peoples (tech) life
 
 - :zap: In my free time I travel
 
